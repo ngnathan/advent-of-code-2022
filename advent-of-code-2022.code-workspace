@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "advent-of-code-2022",
+			"path": "."
+		}
+	],
+  "settings": {
+    "deno.unstable": true
+  }
+}
